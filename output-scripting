@@ -1,0 +1,10 @@
+#!/bin/bash 
+#Purpose: If else statment.
+#Version: 1.0
+#Created Date: 11-04-2021.
+#Modified Date: 11-04-2021.
+#Author: Parimal Valamiya
+# START #
+echo -n "Enter [y/n] : " ; read opt
+
+
